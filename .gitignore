@@ -1,0 +1,6 @@
+# Executables we shouldn't have
+exec/*.exe
+exec/*.asm
+
+# Signing key (PROBABLY shouldn't have)
+*.key
