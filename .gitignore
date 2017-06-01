@@ -4,3 +4,6 @@ exec/*.asm
 
 # Signing key (PROBABLY shouldn't have)
 *.key
+
+# Our blank application
+*.8ck
